@@ -7,7 +7,7 @@
 ## Usage
 
 - Click [Here](https://github.com/HeZeBang/Sheerid-China-Bypass/raw/refs/heads/main/sheerid-bypass.user.js) to install Tampermonkey script.
-- On verification page, choose `Taiwan` as Country/Region
+- On verification page, choose ANY COUNTRY as Country/Region, except US (for some reason, the list wont be common universities)
 - Go on...
 
-既然蛙蛙是中国的一部分，那地区选择 Taiwan 之后全是 China Mainland 的学校也挺合理吧……
+由于 Sheerid 现在添加了 Org ID 验证，当前脚本已经失效
